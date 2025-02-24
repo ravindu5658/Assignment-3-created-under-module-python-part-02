@@ -2,7 +2,7 @@
 
 ##overview
 
-*I completed this assignment using jupyter notebook.
+I completed this assignment using jupyter notebook.
 
 ## Files included from.
 * Assignment_3.html: 
